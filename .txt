@@ -29,6 +29,7 @@ dimwishlist:item=1921159786&perks=981914802,3796465595,951095735,1546637391#note
 
 // IKELOS_SMG_v1.0.2
 dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,3708227201#notes:Pijinnn: One of the best pve SMGs in the game. It can create warmind cells, has high damage output. Threat detector increases that handling and surrounded boosts the damage even further. Demolitionist is also a top pick for the last column. [Recommended MW: Range]
+dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,3708227201#notes:Pijinnn: Ikelos SMG option with surrounded gives it the top damage output in pve [Recommended MW: Range]
 
 // Judgement
 dimwishlist:item=1476654960&perks=1926090091,3142289711,1195158366,47981717#notes:Pijinnn: PvP roll for the reissued Judgement handcannon. Encore works similar to the hawkmoon cata and could lead to some insane ranged play! [Recommended MW: Range]
