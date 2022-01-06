@@ -1,54 +1,18 @@
 
-title:UZUME RR4
-description:TOP DPS / PVE UZUME
+title:Pij's Wishlist
+description:
 
 // Uzume RR4
-dimwishlist:item=2065081837&perks=839105230,1087426260,3400784728,1546637391#notes:Pijinnn: Arrowhead break gives it a perfect 100 recoil direction.
-Appended mag (combined later with back up mag) gets the mag upto 7 rounds. 
-NOTE: bottomless grief also allows for this. 
-Triple tap - hitting crits will refill 1 round into the mag allowing for 10 total shots before reloading
-Vorpal weapon - Increased damage vs bosses + vehicles.
-
-Honorable mention to clown cartridge as once you fire one shot and reload you can reach upto 11 rounds in the mag. [Recommended MW: Range]
-dimwishlist:item=2065081837&perks=3400784728,1546637391#notes:Pijinnn: Arrowhead break gives it a perfect 100 recoil direction.
-Appended mag (combined later with back up mag) gets the mag upto 7 rounds. 
-NOTE: bottomless grief also allows for this. 
-Triple tap - hitting crits will refill 1 round into the mag allowing for 10 total shots before reloading
-Vorpal weapon - Increased damage vs bosses + vehicles.
-
-Honorable mention to clown cartridge as once you fire one shot and reload you can reach upto 11 rounds in the mag. [Recommended MW: Range]
+dimwishlist:item=2065081837&perks=839105230,1087426260,3400784728,1546637391#notes:Pijinnn: Arrowhead break gives it a perfect 100 recoil direction. Appended mag (combined later with back up mag) gets the mag upto 7 rounds. NOTE: bottomless grief also allows for this.  Triple tap - hitting crits will refill 1 round into the mag allowing for 10 total shots before reloading. Vorpal weapon - Increased damage vs bosses + vehicles. Honorable mention to clown cartridge as once you fire one shot and reload you can reach upto 11 rounds in the mag. [Recommended MW: Range]
+dimwishlist:item=2065081837&perks=3400784728,1546637391#notes:Pijinnn: Arrowhead break gives it a perfect 100 recoil direction. Appended mag (combined later with back up mag) gets the mag upto 7 rounds. NOTE: bottomless grief also allows for this. Triple tap - hitting crits will refill 1 round into the mag allowing for 10 total shots before reloading Vorpal weapon - Increased damage vs bosses + vehicles. Honorable mention to clown cartridge as once you fire one shot and reload you can reach upto 11 rounds in the mag. [Recommended MW: Range]
 
 // Uzume RR4 (Adept)
-dimwishlist:item=852228780&perks=839105230,1087426260,3400784728,1546637391#notes:Pijinnn: Arrowhead break gives it a perfect 100 recoil direction.
-Appended mag (combined later with back up mag) gets the mag upto 7 rounds. 
-NOTE: bottomless grief also allows for this. 
-Triple tap - hitting crits will refill 1 round into the mag allowing for 10 total shots before reloading
-Vorpal weapon - Increased damage vs bosses + vehicles.
-
-Honorable mention to clown cartridge as once you fire one shot and reload you can reach upto 11 rounds in the mag. [Recommended MW: Range]
-
-// 
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:title:Chroma Rushtitle:Pijj's Wishlisttitle:Pijj's Wishlist
-description:
+dimwishlist:item=852228780&perks=839105230,1087426260,3400784728,1546637391#notes:Pijinnn: Arrowhead break gives it a perfect 100 recoil direction. Appended mag (combined later with back up mag) gets the mag upto 7 rounds. NOTE: bottomless grief also allows for this. Triple tap - hitting crits will refill 1 round into the mag allowing for 10 total shots before reloading Vorpal weapon - Increased damage vs bosses + vehicles. Honorable mention to clown cartridge as once you fire one shot and reload you can reach upto 11 rounds in the mag. [Recommended MW: Range]
 
 // A Sudden Death
 dimwishlist:item=2855157553&perks=1332244541,791862061,4071163871,3708227201#notes:Pijinnn: An arc aggressive shotgun, found verdict has similar rolls so I am choosing surrounded as a unique option for this and its insane damage output! [Recommended MW: Handling]
 
-// A swift Verdict
+// A Swift Verdict
 dimwishlist:item=1626503676&perks=445755704,1561002382,4071163871,3708227201#notes:Pijinnn: Precision sidearm that could pack a punch with surrounded! [Recommended MW: Handling]
 
 // Darkest Before
@@ -64,7 +28,7 @@ dimwishlist:item=1076810832&perks=1467527085,1431678320,3436462433,3425386926#no
 dimwishlist:item=1921159786&perks=981914802,3796465595,951095735,1546637391#notes:Pijinnn: Timelost rolls with OVERFLOW and CLUSTER BOMB opening the floor to have impulse amplifier and vorpal as a boss solution. [Recommended MW: Velocity]
 
 // IKELOS_SMG_v1.0.2
-dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,3708227201#notes:Pijinnn: Ikelos SMG option with surrounded gives it the top damage output in pve [Recommended MW: Range]
+dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,3708227201#notes:Pijinnn: One of the best pve SMGs in the game. It can create warmind cells, has high damage output. Threat detector increases that handling and surrounded boosts the damage even further. Demolitionist is also a top pick for the last column. [Recommended MW: Range]
 
 // Judgement
 dimwishlist:item=1476654960&perks=1926090091,3142289711,1195158366,47981717#notes:Pijinnn: PvP roll for the reissued Judgement handcannon. Encore works similar to the hawkmoon cata and could lead to some insane ranged play! [Recommended MW: Range]
@@ -99,6 +63,9 @@ dimwishlist:item=640114618&perks=3250034553,1885400500,3643424744,4104185692#not
 // Vouchsafe
 dimwishlist:item=3242168339&perks=3250034553,106909392,1354429876,1546637391#notes:Pijinnn: The ONLY 200rpm scout with an ammo fill perk and damage perk. [Recommended MW: Range]
 
+// Vouchsafe
+dimwishlist:item=3242168339&perks=3250034553,106909392,247725512,3038247973#notes:Pijinnn: Void 200RPM scout option with rapid hit explosive payload [Recommended MW: Range]
+
 // Empty Vessel
 dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1683379515#notes:Pijinnn: Strike GL for endgame [Recommended MW: Velocity]
 
@@ -107,9 +74,6 @@ dimwishlist:item=4277547616&perks=1840239774,3230963543,2010801679,2848615171#no
 
 // Far Future
 dimwishlist:item=893527433&perks=4090651448,1087426260,3300816228,4104185692#notes:Pijinnn: Really unique pve sniper option that's always ready and can hit some good damage [Recommended MW: Handling]
-
-// IKELOS_SMG_v1.0.2
-dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,3708227201#notes:Pijinnn: One of the best pve SMGs in the game. It can create warmind cells, has high damage output. Threat detector increases that handling and surrounded boosts the damage even further. Demolitionist is also a top pick for the last column. [Recommended MW: Range]
 
 // Love and Death
 dimwishlist:item=3690523502&perks=3525010810,3301904089,3300816228,2396489472#notes:Pijinnn: Use chain reaction with solar splash warmind cell mod and you've got a beast!  [Recommended MW: Velocity]
@@ -129,9 +93,6 @@ dimwishlist:item=1645386487&perks=839105230,1087426260,2779035018,4104185692#not
 // Transfiguration
 dimwishlist:item=3799980700&perks=4090651448,3425386926,1015611457#notes:Pijinnn: Only Scout (150rpm) to roll with Rampage and Kill Clip. Drop mag being removed on 7/7 means to check back for new reloader perk. [Recommended MW: Reload]
 
-// Vouchsafe
-dimwishlist:item=3242168339&perks=3250034553,106909392,247725512,3038247973#notes:Pijinnn: Void 200RPM scout option with rapid hit explosive payload [Recommended MW: Range]
-
 // Memory Interdict
 dimwishlist:item=3165547384&perks=981914802,3301904089,3300816228,1683379515#notes:Pijinnn: 1 of 2 void adaptive heavy GLs in the game. Could be very useful for endgame PvE [Recommended MW: Velocity]
 
@@ -144,378 +105,5 @@ dimwishlist:item=690668916&perks=3418782618,3824105627,#notes:Pijinnn: PvE firef
 dimwishlist:item=690668916&perks=3418782618,4104185692,#notes:Pijinnn: PvE damage ramp option! [Recommended MW: Range]
 dimwishlist:item=690668916&perks=3592538738,2726471870,#notes:Pijinnn: Ability AND super generating ! [Recommended MW: Range]
 
-
-description:
-
-// Death Adder
-dimwishlist:item=2742490609&perks=1482024992,106909392,2779035018,2848615171#notes:Pijinnn: Solar smg option that has ability to create warmind cells with Combat mod 'Wrath of Rasputin' from solar dragonfly explosions. [Recommended MW: Range]
-
-// Hezen Vengeance (Timelost)
-dimwishlist:item=1921159786&perks=981914802,3796465595,951095735,1546637391#notes:Pijinnn: Timelost rolls with OVERFLOW and CLUSTER BOMB opening the floor to have impulse amplifier and vorpal as a boss solution. [Recommended MW: Velocity]
-
-// Posterity
-dimwishlist:item=3281285075&perks=3250034553,106909392,1523832109,4049631843#notes:Pijinnn: Incredible GM utility HC as it's always ready. Tankier enemies means OFA is easier to proc and use. [Recommended MW: Range]
-
-// Riiswalker
-dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007#notes:Pijinnn: PvP God roll for max consistency at range! [Recommended MW: Any]
-
-// The Time-Worn Spire
-dimwishlist:item=3593598010&perks=2405638015,1885400500,1820235745,3425386926#notes:Pijinnn: Rapid fire pulse as a pve workhorse. Can also roll feeding frenzy. [Recommended MW: Range]
-
-// Uzume RR4 (Adept)
-dimwishlist:item=852228780&perks=839105230,1087426260,3400784728,1546637391#notes:Pijinnn: Arrowhead break gives it a perfect 100 recoil direction.
-Appended mag (combined later with back up mag) gets the mag upto 7 rounds. 
-NOTE: bottomless grief also allows for this. 
-Triple tap - hitting crits will refill 1 round into the mag allowing for 10 total shots before reloading
-Vorpal weapon - Increased damage vs bosses + vehicles.
-
-Honorable mention to clown cartridge as once you fire one shot and reload you can reach upto 11 rounds in the mag. [Recommended MW: Range]
-
-// Vouchsafe
-dimwishlist:item=3242168339&perks=3250034553,106909392,1354429876,1546637391#notes:Pijinnn: The ONLY 200rpm scout with an ammo fill perk and damage perk. [Recommended MW: Range]
-
-// IKELOS_SMG_v1.0.2
-dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,3708227201#notes:Pijinnn: One of the best pve SMGs in the game. It can create warmind cells, has high damage output. Threat detector increases that handling and surrounded boosts the damage even further. Demolitionist is also a top pick for the last column. [Recommended MW: Range]
-
-// Nation of Beasts
-dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,3038247973#notes:Pijinnn: Very competitive ranged 140 RPM HC for pvp. (Super rare) [Recommended MW: Range]
-
-// Transfiguration
-dimwishlist:item=3799980700&perks=4090651448,3425386926,1015611457#notes:Pijinnn: Only Scout (150rpm) to roll with Rampage and Kill Clip. Drop mag being removed on 7/7 means to check back for new reloader perk. [Recommended MW: Reload]
-
-// Vouchsafe
-dimwishlist:item=3242168339&perks=3250034553,106909392,247725512,3038247973#notes:Pijinnn: Void 200RPM scout option with rapid hit explosive payload [Recommended MW: Range]
-
-// Memory Interdict
-dimwishlist:item=3165547384&perks=981914802,3301904089,3300816228,1683379515#notes:Pijinnn: 1 of 2 void adaptive heavy GLs in the game. Could be very useful for endgame PvE [Recommended MW: Velocity]
-
-// Vision of Confluence (Timelost)
-dimwishlist:item=690668916&perks=2450788523,1015611457,#notes:Pijinnn: PVP option! [Recommended MW: Range]
-dimwishlist:item=690668916&perks=3418782618,3824105627,#notes:Pijinnn: PvE firefly option! [Recommended MW: Range]
-dimwishlist:item=690668916&perks=3418782618,4104185692,#notes:Pijinnn: PvE damage ramp option! [Recommended MW: Range]
-dimwishlist:item=690668916&perks=3592538738,2726471870,#notes:Pijinnn: Ability AND super generating ! [Recommended MW: Range]
-
-
-description:Never reload pve chroma rush
-
 // Chroma Rush
 dimwishlist:item=1119734784&perks=202670084,1087426260,1820235745,3425386926#notes:Pijinnn: Never have to reload [Recommended MW: Range]
-
-// Death Adder
-dimwishlist:item=2742490609&perks=1482024992,106909392,2779035018,2848615171#notes:Pijinnn: Solar smg option that has ability to create warmind cells with Combat mod 'Wrath of Rasputin' from solar dragonfly explosions. [Recommended MW: Range]
-
-// Posterity
-dimwishlist:item=3281285075&perks=3250034553,106909392,1523832109,4049631843#notes:Pijinnn: Incredible GM utility HC as it's always ready. Tankier enemies means OFA is easier to proc and use. [Recommended MW: Range]
-
-// The Time-Worn Spire
-dimwishlist:item=3593598010&perks=2405638015,1885400500,1820235745,3425386926#notes:Pijinnn: Rapid fire pulse as a pve workhorse. Can also roll feeding frenzy. [Recommended MW: Range]
-
-// Uzume RR4 (Adept)
-dimwishlist:item=852228780&perks=839105230,1087426260,3400784728,1546637391#notes:Pijinnn: Arrowhead break gives it a perfect 100 recoil direction.
-Appended mag (combined later with back up mag) gets the mag upto 7 rounds. 
-NOTE: bottomless grief also allows for this. 
-Triple tap - hitting crits will refill 1 round into the mag allowing for 10 total shots before reloading
-Vorpal weapon - Increased damage vs bosses + vehicles.
-
-Honorable mention to clown cartridge as once you fire one shot and reload you can reach upto 11 rounds in the mag. [Recommended MW: Range]
-
-// Vouchsafe
-dimwishlist:item=3242168339&perks=3250034553,106909392,1354429876,1546637391#notes:Pijinnn: The ONLY 200rpm scout with an ammo fill perk and damage perk. [Recommended MW: Range]
-
-// IKELOS_SMG_v1.0.2
-dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,3708227201#notes:Pijinnn: One of the best pve SMGs in the game. It can create warmind cells, has high damage output. Threat detector increases that handling and surrounded boosts the damage even further. Demolitionist is also a top pick for the last column. [Recommended MW: Range]
-
-// Nation of Beasts
-dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,3038247973#notes:Pijinnn: Very competitive ranged 140 RPM HC for pvp. (Super rare) [Recommended MW: Range]
-
-// Transfiguration
-dimwishlist:item=3799980700&perks=4090651448,3425386926,1015611457#notes:Pijinnn: Only Scout (150rpm) to roll with Rampage and Kill Clip. Drop mag being removed on 7/7 means to check back for new reloader perk. [Recommended MW: Reload]
-
-// Vouchsafe
-dimwishlist:item=3242168339&perks=3250034553,106909392,247725512,3038247973#notes:Pijinnn: Void 200RPM scout option with rapid hit explosive payload [Recommended MW: Range]
-
-// Memory Interdict
-dimwishlist:item=3165547384&perks=981914802,3301904089,3300816228,1683379515#notes:Pijinnn: 1 of 2 void adaptive heavy GLs in the game. Could be very useful for endgame PvE [Recommended MW: Velocity]
-
-// 
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
-#notes:
